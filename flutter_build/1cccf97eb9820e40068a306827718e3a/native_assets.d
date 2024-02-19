@@ -1,0 +1,1 @@
+ C:\\Users\\Videografer\\Documents\\bwa\\New\ folder\\bwa_cozy\\bwa_cozy\\.dart_tool\\flutter_build\\1cccf97eb9820e40068a306827718e3a\\native_assets.yaml: 
